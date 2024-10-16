@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://camo.githubusercontent.com/0c732027af8a28d138e3698181f7be7c9b97d443b4beb9c7ce8ec4cffc6b4767/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" align="center" style="width: 100px;"/>
+<img src="https://media.licdn.com/dms/image/v2/D5616AQE7U35Vpls5cQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1672028628565?e=1734566400&v=beta&t=NYfbW95ZCaobuzWFIoAq1C4g_bM4LJ__nRN0KPWXYgI" align="center" style=""/>
 </div>  
   
 
